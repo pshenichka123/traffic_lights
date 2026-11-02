@@ -1,0 +1,11 @@
+Требования к симулятору разделены по файлам:
+
+docs/vision/architecture.md — архитектура и пользовательский сценарий
+docs/vision/object.md — общий интерфейс объектов
+docs/vision/car.md — автомобиль и движение
+docs/vision/lane.md — полоса движения
+docs/vision/road.md — дорога
+docs/vision/spawn-point.md — точка входа
+docs/vision/intersection.md — перекрёсток (запланирован)
+docs/vision/traffic-light-controller.md — светофор (запланирован)
+docs/vision/simulation.md — цикл симуляции
